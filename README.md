@@ -33,18 +33,6 @@ This section focuses on exploring, analyzing, and presenting data through meanin
 - Matplotlib
 - Scikit-learn
 
-## 📂 Repository Structure
-
-```text
-Vanshika-Gupta-22515500096-
-│
-├── Machine-learning1.0/
-│
-├── Data_Visualisation/
-│
-└── README.md
-```
-
 ## 👩‍💻 Author
 
 **Vanshika Gupta**
