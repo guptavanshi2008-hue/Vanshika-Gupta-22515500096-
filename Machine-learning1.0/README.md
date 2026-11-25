@@ -34,17 +34,6 @@ This repository contains practical implementations and learning materials relate
 - Model Training and Testing
 - Model Evaluation
 
-## 📂 Repository Structure
-
-```text
-Machine-learning1.0/
-│
-├── datasets/
-├── notebooks/
-├── programs/
-├── projects/
-└── README.md
-```
 
 ## 👩‍💻 Author
 
